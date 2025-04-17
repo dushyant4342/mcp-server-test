@@ -1,0 +1,35 @@
+{
+    "mcpServers": {
+      "github": {
+        "command": "npx",
+        "args": [
+          "-y",
+          "@smithery/cli@latest",
+          "run",
+          "@smithery-ai/github",
+          "--key",
+          "c1a70921-be8a-4d0a-933d-ae45831cf140"
+        ]
+      },
+      "brave-search": {
+        "command": "npx",
+        "args": [
+          "-y",
+          "@modelcontextprotocol/server-brave-search"
+        ],
+        "env": {
+          "BRAVE_API_KEY": "BSAD74QBiUD_WV_gddnllaQXSF7ztu6"
+        },
+        "enabled": true
+      },
+      "filesystem": {
+        "command": "npx",
+        "args": [
+          "-y",
+          "@modelcontextprotocol/server-filesystem",
+          "/Users/dushyantsharma/Desktop/awsfreetier/mcpserver/mcp_server_weather/bravebrowser_mcp"
+        ],
+        "enabled": true
+      }
+    }
+}
