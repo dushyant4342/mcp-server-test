@@ -1,7 +1,7 @@
 # MCP Server
 
 ## Overview
-MCP (Modular Command Platform) Server is a flexible and extensible server framework designed to expose programmable tools, APIs, and automation agents in a unified, discoverable, and secure way. MCP servers are ideal for integrating AI, automation, and custom business logic into applications, workflows, and developer tools.
+MCP Server is a flexible and extensible server framework designed to expose programmable tools, APIs, and automation agents in a unified, discoverable, and secure way. MCP servers are ideal for integrating AI, automation, and custom business logic into applications, workflows, and developer tools.
 
 ---
 
