@@ -8,7 +8,7 @@
           "run",
           "@smithery-ai/github",
           "--key",
-          "c1a70921-be8a-4d0a-933d-ae45831cf140"
+          "xxxxxxxxxxxxx"
         ]
       },
       "brave-search": {
@@ -18,7 +18,7 @@
           "@modelcontextprotocol/server-brave-search"
         ],
         "env": {
-          "BRAVE_API_KEY": "BSAD74QBiUD_WV_gddnllaQXSF7ztu6"
+          "BRAVE_API_KEY": "xxxxxxxxxxxxx"
         },
         "enabled": true
       },
